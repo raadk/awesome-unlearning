@@ -9,7 +9,9 @@ format:
 - [title](paper link) [links]
     - author1, author2, and author3. arXiv/conferences/journals/, year.
 ```
-## Papers
+
+
+## Papers 
 
 - [Coded Machine Unlearning](https://arxiv.org/abs/2012.15721)
     - Nasser Aldaghri, Hessam Mahdavifar, Ahmad Beirami. arXiv, 2020.
