@@ -1,6 +1,6 @@
 # awesome-unlearning
 
-This is a collection of research and papers for machine unlearning. Feel free to star and fork.
+This is a collection of research and papers on machine unlearning. Feel free to star and fork.
 
 We are looking for more contributors and maintainers! Please feel free to [pull requests](https://github.com/raadk/awesome-unlearning/pulls).
 
